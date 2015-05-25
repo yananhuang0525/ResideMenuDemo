@@ -35,7 +35,7 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
         resideMenu.setSwipeDirectionDisable(ResideMenu.DIRECTION_RIGHT);
 
         itemHome = new ResideMenuItem(this, R.drawable.icon_home, "Home");
-        itemSetting = new ResideMenuItem(this, R.drawable.icon_settings, "setting");
+        itemSetting = new ResideMenuItem(this, R.drawable.icon_settings, "Setting");
         itemHome.setOnClickListener(this);
         itemSetting.setOnClickListener(this);
 
