@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\res"><file name="ic_launcher" path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="shadow" path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\res\drawable-hdpi\shadow.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="residemenu" path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\res\layout\residemenu.xml" qualifiers="" type="layout"/><file name="residemenu_item" path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\res\layout\residemenu_item.xml" qualifiers="" type="layout"/><file path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\res\values\strings.xml" qualifiers=""><string name="app_name">ResideMenu</string></file><file path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\build\generated\res\rs\release"/><source path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\build\generated\res\generated\release"/></dataSet><dataSet config="release"><source path="E:\AndroidStudioWork\ResideMenuDemo\ResideMenu_library\build-types\release\res"/></dataSet><mergedItems/></merger>
